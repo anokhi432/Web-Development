@@ -1,2 +1,2 @@
 # Web-Development
-This repo contains web development projects.
+This repo contains web development codes.
